@@ -1,0 +1,4 @@
+#Create real login
+#Encrypt authentication
+#Possibly add 2fa 
+#Create open host so not host dependent
