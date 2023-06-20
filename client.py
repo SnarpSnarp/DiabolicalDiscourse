@@ -2,11 +2,11 @@ import customtkinter
 
 #Set apperances
 customtkinter.set_appearance_mode("system")
-customtkinter.set_default_color_theme("dark-blue")
+customtkinter.set_default_color_theme("green")
 
 #Set size
 root = customtkinter.CTk()
-root.geometry("500x300")
+root.geometry("1000x600")
 
 def login():
     print("test")
