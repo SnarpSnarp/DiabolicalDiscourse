@@ -2,3 +2,15 @@
 #Encrypt authentication
 #Possibly add 2fa 
 #Create open host so not host dependent
+
+from client, 
+entry one, encode, hash, digest
+entry two, encode, hash, digest
+transmission
+server
+decode entry one, match to username db
+if no return 1
+decode entry two, check hash to entry one selection
+elif no return 2
+return 0
+
