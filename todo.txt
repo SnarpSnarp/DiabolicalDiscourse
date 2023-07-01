@@ -2,6 +2,9 @@
 #Encrypt authentication
 #Possibly add 2fa 
 #Create open host so not host dependent
+#admin page with all users, groups they're in with last login date.
+#otp generation page to give to new users that gens a new code and adds it hashed to a list of otps that can be used to generate a new account 
+
 
 from client, 
 entry one, encode, hash, digest
